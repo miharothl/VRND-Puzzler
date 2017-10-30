@@ -10,7 +10,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: Udacity
+  companyName: Miha Rothl
   productName: Puzzler
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -144,7 +144,7 @@ PlayerSettings:
     Android: com.Udacity.Puzzler
     Standalone: com.Udacity.Puzzler
     Tizen: com.Company.ProductName
-    iOS: com.Udacity.Puzzler
+    iOS: com.rothl.Udacity.Puzzler
     tvOS: com.Company.ProductName
   buildNumber:
     iOS: 0
@@ -215,7 +215,7 @@ PlayerSettings:
   metalEditorSupport: 1
   metalAPIValidation: 1
   iOSRenderExtraFrameOnPause: 1
-  appleDeveloperTeamID: 
+  appleDeveloperTeamID: Miha Rothl
   iOSManualSigningProvisioningProfileID: 
   tvOSManualSigningProvisioningProfileID: 
   appleEnableAutomaticSigning: 0
