@@ -11,24 +11,21 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 # Puzzler
 
 As part of my coursework with Udacity, I designed tested and iterated on a
-mobile VR expirience called Puazzler. In this game, players enter a gloomy
-dungeon with surreal looking orbs, and are asked to solve a puzzle similar
+mobile VR expirience called Puzzler. In this game player enters a gloomy
+dungeon with surreal looking orbs and is asked to solve a puzzle similar
 to a simon says to move on.
 
 Check out the ![video](https://youtu.be/pnki555tHZU)
 
 ## Process Section
 
-# Statement of Purpose:
+# Statement of Purpose
 
 # Persona
 
-for this reason I created a user persona called Bob. Bob is a x year old gamer
-and has minimal expirience with VR. Bob likes playing gemas, but doesn't
-allweay get the time he needs to play them. He spend most of this gaming time
-on theh commute to work. He likes to solve puzzels.
-
-[image]
+I created a user persona called Peter. Peter is a 8 year old gamer
+and has minimal expirience with VR. He likes playing gamas and he is fascinated
+by the VR. He likes to solve puzzels.
 
 ## Sketches
 
@@ -41,18 +38,21 @@ project.
 
 ### User test 1
 
+Where are my hands? How do I move around? I think it's time to move to Oculus Rift :-) 
+
 ### User test 2
+
+Why does the torches don't have fire?
 
 ## Break down of the final piece
 
 First I built the dungeon. I started with the front wall, built the middle
-layer and the back wall.
+layer and then the back wall.
 
 ![image-01](Media/image-01.png)
-![image-02](Media/image-02.png)
 ![image-03](Media/image-03.png)
 
-Then I added barrels and torches to make the dungeon look more interesting.
+I added barrels and torches to make the dungeon look more interesting.
 
 ![image-04](Media/image-04.png)
 
@@ -76,7 +76,8 @@ really cool.
 ![image-11](Media/image-11.png)
 
 During the testing I've got complains that the torches don't have fire. I was
-surprised how easy it is to create the fire in Unity. I've created the particle
+surprised how easy it is to [create the fire](https://www.youtube.com/watch?v=qShjsxopbfQ)
+in Unity. I've created the particle
 system, added the fire texture, adjusted some of the settings and the fire was
 there. Awesome!
 
