@@ -6,47 +6,18 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 - Unity 2017.1.0
 - GVR Unity SDK v1.60.0
 - iTween v2.0.7
--
--
-# Miha's Puzzler Project
 
-As part of my coursework with Udacity, I designed tested and iterated on a
-mobile VR expirience called Puazzler. In this cgme, players enter agloomy
-dungeion with surreal looking orbs, and are asked to solvbe a puszzle similar
-to a 3d simon says to move on.
-
-## Unique Consideratiosn
-
-There were many interisteng design considerations during this project , but the
-most notable wasa the need to design a spacd so theat users could intuitively
-understand the objective of the game in a simple mobile experince.
 
 # Puzzler
 
-I part of my course with Udacity, I designed tested and iterated on the mobile
-VR expirence called Puzzler. 
+As part of my coursework with Udacity, I designed tested and iterated on a
+mobile VR expirience called Puazzler. In this game, players enter a gloomy
+dungeon with surreal looking orbs, and are asked to solve a puzzle similar
+to a simon says to move on.
 
+Check out the [video](https://youtu.be/pnki555tHZU)
 
-
-This projejc was a huge success thanks to the carful iterative appproach that
-was used to consistently improve the game. People have had a ton of fun trying
-out BR and plahing this game, and everyon intuitvle understand how to interact
-with the space.
-
-
-
-[video] whach video in VR vieer
-
-
-https://youtu.be/-THrFXu9Hok
-
-
-
-https://youtu.be/pnki555tHZU
-
-[image]
-
-## Provess Section
+## Process Section
 
 # Statement of Purpose:
 
@@ -69,13 +40,12 @@ on theh commute to work. He likes to solve puzzels.
 
 
 
-[Sketches]
+## Sketches
 
-Hear are some othe conceputal scetched I created to lay dthe groundwork for
-designing the project.
+Here are some conceptual sketches I created to lay down the design of the
+project.
 
-
-
+[Sketch](sketch-01.jpg)
 
 ## User Testing
 
@@ -91,9 +61,22 @@ designing the project.
 
 ### Item 3
 
-
+[image-01](image-01.png)
+[image-02](image-02.png)
+[image-03](image-03.png)
+[image-04](image-04.png)
+[image-05](image-05.png)
+[image-06](image-06.png)
+[image-07](image-07.png)
+[image-08](image-08.png)
+[image-09](image-09.png)
+[image-10](image-10.png)
+[image-11](image-11.png)
+[image-12](image-12.png)
 
 ## Conclusion
+
+image-01](image-01.jpg)
 
 ## Next Steps
 
