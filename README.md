@@ -15,7 +15,7 @@ mobile VR expirience called Puzzler. In this game player enters a gloomy
 dungeon with surreal looking orbs and is asked to solve a puzzle similar
 to a simon says to move on.
 
-Check out the ![video](https://youtu.be/pnki555tHZU)
+Check out the [video](https://youtu.be/pnki555tHZU)
 
 ## Process Section
 
