@@ -7,6 +7,7 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 - GVR Unity SDK v1.60.0
 - iTween v2.0.7
 
+https://medium.com/@miha_43105/my-puzzler-project-13f49bf88c02
 
 # Puzzler
 
