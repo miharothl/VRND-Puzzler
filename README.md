@@ -10,12 +10,12 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 
 # Puzzler
 
-As part of my coursework with Udacity, I designed tested and iterated on a
+As part of my coursework with Udacity I created a
 mobile VR expirience called Puzzler. In this game player enters a gloomy
 dungeon with surreal looking orbs and is asked to solve a puzzle similar
 to a simon says to move on.
 
-Check out the [video](https://youtu.be/pnki555tHZU)
+Check out the [video](https://youtu.be/4H1svPWik-I).
 
 ## Process Section
 
@@ -23,7 +23,7 @@ Check out the [video](https://youtu.be/pnki555tHZU)
 
 # Persona
 
-I created a user persona called Peter. Peter is a 8 year old gamer
+I created a user persona called Michael. Michael is a 8 year old gamer
 and has minimal expirience with VR. He likes playing gamas and he is fascinated
 by the VR. He likes to solve puzzels.
 
@@ -42,12 +42,12 @@ Where are my hands? How do I move around? I think it's time to move to Oculus Ri
 
 ### User test 2
 
-Why does the torches don't have fire?
+Why do the torches don't have fire?
 
 ## Break down of the final piece
 
 First I built the dungeon. I started with the front wall, built the middle
-layer and then the back wall.
+and then the back wall.
 
 ![image-01](Media/image-01.png)
 ![image-03](Media/image-03.png)
@@ -58,7 +58,7 @@ I added barrels and torches to make the dungeon look more interesting.
 
 I've added the orbs and wired them up with the game script provided by the
 Udacity. I've spent quite some on setting up the lights. I pointed purple spot light 
-into the orbs. I used soft shadows. For the torches I used dark orange point
+into the orbs and I used soft shadows. For the torches I used dark orange point
 lights. I made sure all the objects are static and then baked the light. The
 scene in the dungeon looked a bit scary, which was cool.
 
@@ -69,7 +69,8 @@ the text and buttons onto it.
 
 ![image-07](Media/image-07.png)
 
-I put the dungeon into the mountains. Once I've added the [fog](https://www.youtube.com/watch?v=TChSVtI4GEk) the scene looked
+I've put the dungeon into the mountains. Once I've added
+the [fog](https://www.youtube.com/watch?v=TChSVtI4GEk) the scene looked
 really cool. 
 
 ![image-09](Media/image-09.png)
@@ -85,18 +86,17 @@ there. Awesome!
 
 ## Conclusion
 
-The project was very interesting and the best thing of all was watching my
+The project was very interesting and I had great fun working on it. The best thing of all
+was watching my
 kids playing the puzzle and having fun in the VR world.
 
 ## Next Steps
 
-In the next project we'll have to build the museum in virtual realty. For a change we are
+In the next project on the Udacity VR nanodegreee we'll have to build the museum.
+For a change we are
 not provided with a starter project which is a bit scary but also very cool as
-we'll have to build the museum from scratch.
+we'll have to build it from scratch.
 
 # Link to additional work
 
 https://github.com/miharothl/
-
-
-
