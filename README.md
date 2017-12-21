@@ -45,7 +45,7 @@ on theh commute to work. He likes to solve puzzels.
 Here are some conceptual sketches I created to lay down the design of the
 project.
 
-[Sketch](sketch-01.jpg)
+[Sketch](Media/sketch-01.jpg)
 
 ## User Testing
 
@@ -61,18 +61,18 @@ project.
 
 ### Item 3
 
-[image-01](image-01.png)
-[image-02](image-02.png)
-[image-03](image-03.png)
-[image-04](image-04.png)
-[image-05](image-05.png)
-[image-06](image-06.png)
-[image-07](image-07.png)
-[image-08](image-08.png)
-[image-09](image-09.png)
-[image-10](image-10.png)
-[image-11](image-11.png)
-[image-12](image-12.png)
+[image-01](Media/image-01.png)
+[image-02](Media/image-02.png)
+[image-03](Media/image-03.png)
+[image-04](Media/image-04.png)
+[image-05](Media/image-05.png)
+[image-06](Media/image-06.png)
+[image-07](Media/image-07.png)
+[image-08](Media/image-08.png)
+[image-09](Media/image-09.png)
+[image-10](Media/image-10.png)
+[image-11](Media/image-11.png)
+[image-12](Media/image-12.png)
 
 ## Conclusion
 
