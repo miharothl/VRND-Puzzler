@@ -11,7 +11,7 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 
 https://medium.com/@miha_43105/my-puzzler-project-1fa507190251
 
-# Puzzler
+# My Puzzler Project
 
 As part of my coursework with Udacity, I created a mobile VR experience called
 Puzzler. In this game player enters a gloomy dungeon with surreal-looking orbs
@@ -19,20 +19,18 @@ and is asked to solve a puzzle similar to a Simon says to move on.
 
 Check out the [video](https://youtu.be/4H1svPWik-I).
 
-## Process Section
-
-# Persona
-
-I created a user persona called Michael. Michael is an 8-year-old gamer and has
-minimal experience with VR. He likes playing games and he is fascinated by the
-VR. He likes to solve the puzzles.
-
 ## Sketches
 
 Here are some conceptual sketches I created to lay down the design of the
 project.
 
 ![Sketch](Media/sketch-01.jpg)
+
+## Persona
+
+I created a user persona called Michael. Michael is an 8-year-old gamer and has
+minimal experience with VR. He likes playing games and he is fascinated by the
+VR. He likes to solve the puzzles.
 
 ## User Testing
 
@@ -92,6 +90,7 @@ really cool.
 ![image-11](Media/image-11.png)
 
 ## Conclusion
+
 The project was very interesting and I had great fun working on it. The best
 thing of all was watching my kids playing the Puzzler and having fun in the
 VR world.
@@ -102,6 +101,6 @@ In the next project on the Udacity VR Nanodegree, we’ll have to build the
 museum. For a change, we are not provided with a starter project which is a bit
 scary but also very cool as we’ll have to build it from scratch.
 
-# Link to additional work
+## Link to additional work
 
 https://github.com/miharothl/
